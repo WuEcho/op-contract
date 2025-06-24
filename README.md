@@ -4,6 +4,8 @@ Base on the Version op-contracts/v2.0.0.
 
 We can use `git checkout op-contracts/v2.0.0` on optimism check the original contract.
 
+Use the op-deployer to deploy the contract as for how to use we can check [doc](https://devdocs.optimism.io/op-deployer/)
+
 This package contains the L1 and L2 smart contracts for the OP Stack.
 Detailed specifications for the contracts contained within this package can be found at [specs.optimism.io](https://specs.optimism.io).
 High-level information about these contracts can be found within this README and within the [Optimism Developer Docs](https://docs.optimism.io).
