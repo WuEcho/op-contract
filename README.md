@@ -2,7 +2,7 @@
 
 Base on the Version op-contracts/v2.0.0.
 
-We can use `git checkout op-contracts/v2.0.0` on optimism. 
+We can use `git checkout op-contracts/v2.0.0` on optimism check the original contract.
 
 This package contains the L1 and L2 smart contracts for the OP Stack.
 Detailed specifications for the contracts contained within this package can be found at [specs.optimism.io](https://specs.optimism.io).
